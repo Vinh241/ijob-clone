@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "469296308974",
+    "project_id": "ijob-clone-app-662f9",
+    "storage_bucket": "ijob-clone-app-662f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469296308974:android:0c837f000d1a7ca42e09ff",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469296308974-f17nc1v6s0dis9l0ds80ouhb0jr2eecc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ-RitU5vTZYZU9UV-vyu4u9HhccJH_Gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469296308974-f17nc1v6s0dis9l0ds80ouhb0jr2eecc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469296308974-2tc87g89kfp6dg5a54i4s3qh2l1h2ubg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.project"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
