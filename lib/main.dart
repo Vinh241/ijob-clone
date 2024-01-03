@@ -55,7 +55,7 @@ class MyApp extends StatelessWidget {
                 scaffoldBackgroundColor: Colors.black,
                 primarySwatch: Colors.blue
             ),
-            home: UserState(),
+            home: const UserState(),
 
           );
         });

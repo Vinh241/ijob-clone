@@ -24,7 +24,7 @@ class _UserStateState extends State<UserState> {
             print('user is already logged in yet');
             return JobScreen();
           }else if(userSnapshot.hasError){
-            return Scaffold(
+            return const Scaffold(
               body: Center(
                 child: Text('An error has been occurred. Try again'),
               ),
@@ -38,7 +38,7 @@ class _UserStateState extends State<UserState> {
               ),
             );
           }
-          return Scaffold(
+          return const Scaffold(
             body: Center(
               child: Text('Something went wrong'),
             ),

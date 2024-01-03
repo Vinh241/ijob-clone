@@ -108,6 +108,7 @@ class _JobDetailScreenState extends State<JobDetailScreen> {
       query:
       'subject=Applying for $jobTitle&body=Hello, please attach Resume CV file',
     );
+
     final url = params.toString();
     launchUrlString(url);
     addNewApplicant();
